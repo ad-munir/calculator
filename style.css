@@ -12,8 +12,12 @@ h1{
     padding: 10px;
     color: rgb(15, 72, 69);
 }
-#plus, #equal{
+#plus, #moins, #times{
     background-color: wheat;
+}
+#equal{
+    background-color: cadetblue;
+    border: solid white;
 }
 .frame{
     margin-top: 20px;
